@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Learn about Benjamin Ashmore]]></title>
         <description><![CDATA[Learn about Benjamin Ashmore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/benjamin-ashmore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 21:23:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 21:24:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benjamin-ashmore/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b288969-aa6d-4b3c-bef1-4481dff53904.jpg">]]></description>
-            <link>undefined5043704e-e723-4e2e-9624-389ca15feb53/index.html</link>
+            <link>https://thegrid.ai/benjamin-ashmore/5043704e-e723-4e2e-9624-389ca15feb53/index.html</link>
             <guid isPermaLink="false">5043704e-e723-4e2e-9624-389ca15feb53</guid>
-            <pubDate>Tue, 01 Mar 2016 21:23:08 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 21:23:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
